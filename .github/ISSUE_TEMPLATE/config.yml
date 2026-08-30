@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: mailto:tony@aiowa.dev
+    about: Report suspected vulnerabilities privately. Do not open a public issue.
+  - name: AIowa LLC
+    url: https://aiowa.dev
+    about: Visit the AIowa LLC website.
