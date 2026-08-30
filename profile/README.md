@@ -1,33 +1,51 @@
 # AIowa LLC
 
-**Practical software, AI systems, and automation.**
+**AI systems, software, and independent technology media.**
 
-AIowa LLC builds useful tools and systems around artificial intelligence, software automation, and modern digital workflows.
+AIowa LLC is an Iowa-based technology company building practical AI systems, developer tools, software, and digital products while operating independent technology and media properties.
 
-We care about software that does real work: clear interfaces, dependable automation, maintainable systems, and AI that earns its place in the stack.
+We focus on implementation over hype: systems that do real work, infrastructure that can be observed and verified, and software built to survive contact with the real world.
 
 ## What we build
 
-- **AI and agent-powered workflows** that connect models to real tasks
-- **Automation systems** that remove repetitive operational work
-- **Software tools and products** designed for practical daily use
-- **Web infrastructure and integrations** that turn ideas into working systems
+- **Agentic systems** — AI agents, tool integrations, orchestration, context systems, and real-world workflows
+- **Software & digital products** — web applications, developer tools, internal platforms, and purpose-built software
+- **Automation & infrastructure** — secure integrations, local-first systems, MCP tooling, and operational automation
+- **Verified execution** — deterministic protocols and systems designed to make automated work observable and provable
+- **Technology media** — independent technology testing, analysis, and media properties
 
-## Engineering approach
+## AIowa Web
+
+**AIowa Web** builds fast, modern websites and digital infrastructure for businesses that need more than a template and a logo.
+
+https://web.aiowa.dev
+
+## Engineering principles
 
 We favor:
 
+- practical implementation over speculative promises
 - small, understandable components
-- automation with observable behavior
-- secure defaults
+- secure defaults and zero-trust credential handling
+- local-first infrastructure where it makes sense
+- observable automation
+- verifiable execution
 - useful documentation
-- iterative shipping over speculative complexity
+- iterative shipping
 
-## Find us
+## Projects & properties
+
+AIowa LLC develops and operates projects across AI, software, infrastructure, and technology media, including work around **NexusOS**, **Hermes Vault**, **Hardproof**, **TonySimons.dev**, **Tony Reviews Things**, and **Hermes Launch Lab**.
+
+## Find AIowa
 
 **Website:** https://aiowa.dev  
-**Contact:** tony@aiowa.dev
+**AIowa Web:** https://web.aiowa.dev  
+**X:** https://x.com/AIowaLLC  
+**Facebook:** https://www.facebook.com/AIowaLLC/  
+**Contact:** hello@aiowa.dev  
+**Location:** Ames, Iowa, United States
 
 ---
 
-AIowa LLC is based in Iowa and builds for the wider internet.
+**Built in Iowa. Built for real use.**
