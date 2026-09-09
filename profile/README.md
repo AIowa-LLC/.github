@@ -14,6 +14,18 @@ We focus on implementation over hype: systems that do real work, infrastructure 
 - **Verified execution** — deterministic protocols and systems designed to make automated work observable and provable
 - **Technology media** — independent technology testing, analysis, and media properties
 
+## AIowa Agents
+
+Done-for-you AI agent setup and workflow automation for small businesses.
+
+Examples:
+- inbox triage
+- follow-up automation
+- document routing
+- morning briefings
+
+https://agents.aiowa.dev
+
 ## AIowa Web
 
 **AIowa Web** builds fast, modern websites and digital infrastructure for businesses that need more than a template and a logo.
@@ -35,11 +47,12 @@ We favor:
 
 ## Projects & properties
 
-AIowa LLC develops and operates projects across AI, software, infrastructure, and technology media, including work around **NexusOS**, **Hermes Vault**, **Hardproof**, **TonySimons.dev**, **Tony Reviews Things**, and **Hermes Launch Lab**.
+AIowa LLC develops and operates projects across AI, software, infrastructure, and technology media, including work around **AIowa Agents**, **AIowa Web**, **Hermes Launch Lab**, **NexusOS**, **Hermes Vault**, **Hardproof**, **TonySimons.dev**, and **Tony Reviews Things**.
 
 ## Find AIowa
 
 **Website:** https://aiowa.dev  
+**AIowa Agents:** https://agents.aiowa.dev  
 **AIowa Web:** https://web.aiowa.dev  
 **X:** https://x.com/AIowaLLC  
 **Facebook:** https://www.facebook.com/AIowaLLC/  
